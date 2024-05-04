@@ -1,7 +1,7 @@
 ## Hey, I'm Bernardus.
 
   <samp>
- Frontend Developer on Teknologi Harapan, Computer Science Student at Binus University.
+ Frontend Developer on Teknologi Industries , Computer Science Student at Binus University.
  Btw. I had hair that can't wet when swimming 
   </samp>
  <p align="center">
